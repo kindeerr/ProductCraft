@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://kindeerr:159789789a@cluster0.jsfux.gcp.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "productCraft-jwtsecret"
+}
